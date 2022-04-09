@@ -3,3 +3,8 @@
   font-size: 18px;
   cursor: pointer;
 }
+
+.image {
+  width: 100px;
+  height: 130px;
+}
